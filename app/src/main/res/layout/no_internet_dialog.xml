@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/no_int"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:layout_height="wrap_content">
+
+    <com.io.game_changer_test.custom.NormalImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="@dimen/two_Fifty_dp"
+        android:layout_height="@dimen/two_hundred_dp"
+        android:layout_marginTop="@dimen/ten_dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/no_internet_dialog"></com.io.game_changer_test.custom.NormalImageView>
+
+    <com.io.game_changer_test.custom.BoldTextView
+        android:id="@+id/textView1"
+        android:layout_below="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:text="@string/no_network_connection"
+        android:textStyle="bold"
+        android:textSize="@dimen/twenty_two_dp"
+        android:textColor="@color/text_color_dark_gray"
+        android:layout_marginTop="@dimen/ten_dp"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content">
+
+    </com.io.game_changer_test.custom.BoldTextView>
+
+    <com.io.game_changer_test.custom.NormalTextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/five_dp"
+        android:textColor="@color/text_color"
+        android:text="@string/could_not_connect_to_the_internet"
+        android:textSize="@dimen/eighteen_sp"
+        android:textAlignment="center">
+    </com.io.game_changer_test.custom.NormalTextView>
+
+    <com.io.game_changer_test.custom.NormalTextView
+        android:id="@+id/textView3"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/five_dp"
+        android:textColor="@color/text_color"
+        android:text="Please Check Your Network"
+        android:textSize="@dimen/eighteen_sp"></com.io.game_changer_test.custom.NormalTextView>
+
+    <com.io.game_changer_test.custom.NormalTextView
+        android:id="@+id/tv_no_internet"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/five_dp"
+        android:layout_marginBottom="@dimen/twenty_five_dp"
+        android:text="@string/try_again"
+        android:textColor="#545cd8"
+        android:textSize="@dimen/eighteen_sp"></com.io.game_changer_test.custom.NormalTextView>
+
+</RelativeLayout>

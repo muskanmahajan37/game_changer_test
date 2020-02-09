@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_layout">#cdf1f4f6</color>
+    <color name="text_color">#6e777f</color>
+    <color name="text_color_dark_gray">#495057</color>
+    <color name="background_on_focus">#19fdbb1f</color>
+    <color name="yellow">#fdbb1f</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_gray_text_color">#495057</color>
+    <color name="white">#ffffff</color>
+    <color name="streoke_dialog">#cdf1f4f6</color>
+    <color name="blue">#3e50b5</color>
+</resources>

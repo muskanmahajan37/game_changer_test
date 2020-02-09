@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504997024331",
+    "firebase_url": "https://stay-app-51a6d.firebaseio.com",
+    "project_id": "stay-app-51a6d",
+    "storage_bucket": "stay-app-51a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504997024331:android:c02196950e5e14891133ce",
+        "android_client_info": {
+          "package_name": "com.io.stay_active"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504997024331-g73r2669bdm5ighnubmgub8uib6oiho8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.io.stay_active",
+            "certificate_hash": "f3268e3bd917d5493bf66ce8c30cdf882257756e"
+          }
+        },
+        {
+          "client_id": "504997024331-g73g1mdf1vl8pupgiugjfjvionjd76qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC52XWXDZ0ZsqhUWQ2qJsbtOh3TkUiemMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504997024331-g73g1mdf1vl8pupgiugjfjvionjd76qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

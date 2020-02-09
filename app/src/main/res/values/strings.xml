@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game Changer Assignment</string>
+    <string name="dummy_text">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin.</string>
+    <string name="str_ok">Ok</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="could_not_connect_to_the_internet">Could not connect to the internet</string>
+    <string name="try_again">Try Again</string>
+    <string name="title">Fix loss of build output on test failure.</string>
+    <string name="header_title">Github Issue</string>
+    <string name="time">28-12-1994</string>
+</resources>
